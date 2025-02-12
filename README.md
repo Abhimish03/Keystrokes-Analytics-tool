@@ -64,7 +64,7 @@ Make your changes and commit them (git commit -m 'Add your feature').
 Push your changes (git push origin feature/your-feature-name).
 Open a pull request.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU License - see the https://github.com/Abhimish03/Keystrokes-Analytics-tool/blob/3abbde48f0aeb3e595792ada27cce25a7dc0b1c7/LICENSE file for details.
 
 Acknowledgements
 This tool uses the pynput library to capture keystrokes, which is a great Python library for listening to mouse and keyboard events.
